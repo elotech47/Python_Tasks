@@ -85,13 +85,3 @@ print("Ok thanks")
 
 DisplayStaffs()
 exit()
-
-    #Employee details cache
-
-#for x, y in thisdict.items():
- # print(x, y)
-
-
-
-    #print(employeeDetails)
-    #print(currentEmployee)
